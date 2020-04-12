@@ -1,0 +1,16 @@
+{
+  "name": "protractor_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "dependencies": {
+    "typescript": "3.8.3"
+  }
+}

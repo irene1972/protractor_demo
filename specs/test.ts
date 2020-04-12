@@ -4,7 +4,7 @@ describe('Protractor Typescript Demo', function() {
 	  browser.get('https://angularjs.org/');
 	  browser.getTitle().then(function(title){
 		console.log("The title is  : "+title)
-		browser.sleep(75000);
+		browser.sleep(5000);
 	  })
 	});
 });
